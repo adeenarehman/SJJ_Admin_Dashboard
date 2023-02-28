@@ -1,10 +1,17 @@
 {
   "hosting": {
-    "public": "none",
+    "site": "adminpanel-7ebbc",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
     ]
   }
 }

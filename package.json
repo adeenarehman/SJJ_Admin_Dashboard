@@ -25,6 +25,7 @@
     "d3-ease": "^3.0.1",
     "d3-interpolate": "^3.0.1",
     "express-fileupload": "^1.4.0",
+    "firebase": "^9.17.1",
     "install": "^0.13.0",
     "javascript-time-ago": "^2.5.7",
     "less": "^4.1.2",
