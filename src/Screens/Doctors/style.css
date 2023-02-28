@@ -1,0 +1,24 @@
+/* ViewDoctorDetails CSS */
+
+.doctorDetailsPaperContainer{
+    background-color: blueviolet;
+    padding: 2%;
+    display: 'flex';
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+}
+
+.doctorDetailsBreadcrumbs{
+    background-color: aquamarine;
+    /* width: 100%; */
+    display: 'flex';
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: flex-start; */
+}
+
+.doctorDetailsBodyContainer{
+    display: flex;
+    justify-self: center;
+}

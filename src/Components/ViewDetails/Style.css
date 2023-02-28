@@ -1,0 +1,88 @@
+.viewDetailsPaperContainer{
+    padding: 1%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.viewDetailsBoxContainer{
+    /* background-color: cornflowerblue; */
+    width: 90%;
+    margin-top: 2%;
+}
+
+.itemOnePaperContainer{
+    /* background-color: aqua; */
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+/* .itemOneTagContainer{
+    /* background-color: brown; */
+    /* padding-top: 1%; */
+    /* padding-bottom: 1%; */
+    /* display: flex; */
+    /* justify-content: flex-end; */
+/*  */
+
+.itemOneInfoContainer{
+    /* background-color: aqua; */
+    /* width: 100%; */
+    padding: 3%;
+    display: flex;
+    justify-content: flex-start;
+    align-self: center;
+}
+
+.itemOneAvatarContainer{
+    /* background-color: rgb(5, 67, 67); */
+    /* width: 12%; */
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.itemOneDataContainer{
+    /* background-color: violet; */
+    /* width: 40%; */
+    /* padding: 1%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.itemOneSwitchContainer{
+    /* background: pink; */
+    /* width: 50%; */
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* justify-self: flex-end; */
+    align-items: center;
+}
+
+.itemOneSwitch{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewDetailsScheduleCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.viewDetailsScheduleCardTag{
+    display: flex;
+    justify-content: flex-end;
+}

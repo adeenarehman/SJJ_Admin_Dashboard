@@ -1,0 +1,108 @@
+/* STATS CARD CSS */
+
+.statsCardUser{
+    /* height: 12vh;
+    width: 12vh; */
+    background-color: rgba(197, 0, 255, 0.1);
+    border: solid rgba(197, 0, 255, 0.5) 0.2vh;
+    border-radius: 1.5vh;
+    margin-right: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.statsCardHome{
+    background:rgba(106,196,222, 0.1); 
+    border: solid rgba(106, 196, 222, 0.5) 0.2vh;
+    border-radius: 1.5vh;
+    margin-right: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.statsCardMedicine{
+    background-color: rgba(249, 208, 145, 0.1);
+    border: solid rgba(255, 183, 77, 0.5) 0.2vh;
+    border-radius: 1.5vh;
+    margin-right: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.statsCardStore{
+    /* height: 12vh;
+    width: 12vh; */
+    background:rgba(255, 138, 101, 0.1);
+    border: solid rgba(255, 138, 101, 0.5) 0.2vh;
+    border-radius: 1.5vh;
+    margin-right: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+/* USER CARD CSS */
+
+.userCardPaperContainer{
+    padding: 4%;
+    /* border-radius: 1vh; */
+}
+
+.userCardContainerHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2%;
+}
+
+.userCardContainerHeaderText{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.userCardContainerHeaderText:hover{
+    color: #4f5ace;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.userCardTableHeader{
+    background-color: rgb(240, 243, 245);
+}
+
+/* RECENT APPOINTMENT CARD CSS */
+
+.recentAppointmentCardPaperContainer{
+    padding: 4%;
+    /* border-radius: 1vh; */
+}
+
+.recentAppointmentCardContainerHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2%; 
+}
+
+.recentAppointmentCardTableHeader{
+    background-color: #f5f6f8;
+}
+
+.recentAppointmentCardContainerHeaderText{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+}
+
+.recentAppointmentCardContainerHeaderText:hover{
+    color: #4f5ace;
+    text-decoration: underline;
+    cursor: pointer
+}

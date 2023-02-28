@@ -1,0 +1,6 @@
+.image{
+    background-image: url('../../Assets/LoginImage.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

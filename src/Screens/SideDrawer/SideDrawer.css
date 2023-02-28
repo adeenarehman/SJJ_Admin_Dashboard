@@ -1,0 +1,19 @@
+.drawerDivContainer{
+    height: 100%;
+    background-color: #b11e1d;
+}
+
+.drawerListButton:hover{
+    background-color: #4f5ace;
+    border-radius: 50vh;
+}
+
+
+/* .drawerTextProps{
+    color:'white'
+}
+
+.drawerListButton:active
+{
+    background-color: #f05092;
+} */
